@@ -5,6 +5,22 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.0"
+  },
+  "description": "You have been hired by a local restaurant to **extend** the backend system for managing their online menu. In addition to creating and reading menu items, the restaurant needs the following functionality:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandlapraharshitha/stackblitz-starters-hrr6ocdg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bandlapraharshitha/stackblitz-starters-hrr6ocdg/issues"
+  },
+  "homepage": "https://github.com/bandlapraharshitha/stackblitz-starters-hrr6ocdg#readme"
 }
